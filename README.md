@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>BS IT Student</b> from Pakistan 🇵🇰 | <b>Aspiring Outreachy Intern</b> (December 2026 Cohort)
+  <b>BS IT Student</b> from Pakistan 🇵🇰 | <b>Aspiring Outreachy Intern</b> (May 2027 Cohort)
 </p>
 
 <p align="center">
