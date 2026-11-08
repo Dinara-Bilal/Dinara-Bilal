@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>BS IT Student</b> from Pakistan 🇵🇰 | <b>Aspiring Outreachy Intern</b> (May 2027 Cohort)
+  <b>BS IT Student</b> from Pakistan 🇵🇰 | <b>Aspiring Outreachy Intern</b> (December 2026 Cohort)
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ### 🌸 About Me
 - 🎓 **Education:** Pursuing a Bachelor's degree in Information Technology (BS IT) in Pakistan.
 - 💡 **Passion:** Enthusiastic about problem-solving, software development, and building open community software.
-- 🎯 **Current Focus:** Preparing for the Outreachy December 2027 cohort by learning open-source workflows.
+- 🎯 **Current Focus:** Preparing for the Outreachy December 2026 cohort by learning open-source workflows.
 
 ---
 
