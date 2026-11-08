@@ -17,7 +17,7 @@
 ### 🌸 About Me
 - 🎓 **Education:** Pursuing a Bachelor's degree in Information Technology (BS IT) in Pakistan.
 - 💡 **Passion:** Enthusiastic about problem-solving, software development, and building open community software.
-- 🎯 **Current Focus:** Preparing for the Outreachy December 2026 cohort by learning open-source workflows.
+- 🎯 **Current Focus:** Preparing for the Outreachy December 2027 cohort by learning open-source workflows.
 
 ---
 
@@ -50,6 +50,10 @@
 </p>
 
 ---
+
+### My Projects
+-**python-practice** -Small Python programs I built while learning Python, include practice exercises and basic problem-solving.
+-**OpenSearch Documentation** -Contributing to OpenSearch documentation by adding missing configuration option (in progress).
 
 ### 📫 Connect With Me
 - 💼 **GMAIL:** deenarasheikh@gmail.com
